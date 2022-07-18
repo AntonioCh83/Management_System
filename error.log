@@ -1,0 +1,24 @@
+[Thu Jun 23 10:13:39.305248 2022] [core:warn] [pid 13860:tid 588] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jun 23 10:13:41.181414 2022] [mpm_winnt:notice] [pid 13860:tid 588] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/8.0.8 configured -- resuming normal operations
+[Thu Jun 23 10:13:41.181414 2022] [mpm_winnt:notice] [pid 13860:tid 588] AH00456: Apache Lounge VS16 Server built: May 18 2021 10:45:56
+[Thu Jun 23 10:13:41.181414 2022] [core:notice] [pid 13860:tid 588] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Jun 23 10:13:41.191493 2022] [mpm_winnt:notice] [pid 13860:tid 588] AH00418: Parent: Created child process 13924
+[Thu Jun 23 10:13:42.261363 2022] [mpm_winnt:notice] [pid 13924:tid 604] AH00354: Child: Starting 150 worker threads.
+[Thu Jun 23 10:18:27.226213 2022] [core:warn] [pid 11252:tid 584] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jun 23 10:18:27.286169 2022] [mpm_winnt:notice] [pid 11252:tid 584] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/8.0.8 configured -- resuming normal operations
+[Thu Jun 23 10:18:27.286169 2022] [mpm_winnt:notice] [pid 11252:tid 584] AH00456: Apache Lounge VS16 Server built: May 18 2021 10:45:56
+[Thu Jun 23 10:18:27.286169 2022] [core:notice] [pid 11252:tid 584] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Jun 23 10:18:27.291182 2022] [mpm_winnt:notice] [pid 11252:tid 584] AH00418: Parent: Created child process 2612
+[Thu Jun 23 10:18:28.321104 2022] [mpm_winnt:notice] [pid 2612:tid 644] AH00354: Child: Starting 150 worker threads.
+[Thu Jun 23 10:31:28.473153 2022] [core:warn] [pid 6388:tid 512] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jun 23 10:31:28.533217 2022] [mpm_winnt:notice] [pid 6388:tid 512] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/8.0.8 configured -- resuming normal operations
+[Thu Jun 23 10:31:28.533217 2022] [mpm_winnt:notice] [pid 6388:tid 512] AH00456: Apache Lounge VS16 Server built: May 18 2021 10:45:56
+[Thu Jun 23 10:31:28.533217 2022] [core:notice] [pid 6388:tid 512] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Jun 23 10:31:28.538227 2022] [mpm_winnt:notice] [pid 6388:tid 512] AH00418: Parent: Created child process 15068
+[Thu Jun 23 10:31:29.438097 2022] [mpm_winnt:notice] [pid 15068:tid 604] AH00354: Child: Starting 150 worker threads.
+[Thu Jun 23 10:32:18.238138 2022] [core:warn] [pid 13700:tid 592] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jun 23 10:32:18.298098 2022] [mpm_winnt:notice] [pid 13700:tid 592] AH00455: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/8.0.8 configured -- resuming normal operations
+[Thu Jun 23 10:32:18.298098 2022] [mpm_winnt:notice] [pid 13700:tid 592] AH00456: Apache Lounge VS16 Server built: May 18 2021 10:45:56
+[Thu Jun 23 10:32:18.298098 2022] [core:notice] [pid 13700:tid 592] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Jun 23 10:32:18.309629 2022] [mpm_winnt:notice] [pid 13700:tid 592] AH00418: Parent: Created child process 8336
+[Thu Jun 23 10:32:19.193118 2022] [mpm_winnt:notice] [pid 8336:tid 488] AH00354: Child: Starting 150 worker threads.
